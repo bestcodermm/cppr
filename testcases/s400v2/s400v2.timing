@@ -1,0 +1,6 @@
+clock blif_clk_net 1.00000e-10
+at TEST 1.55958e-10 1.41738e-11
+at FM 1.60938e-10 2.45713e-11
+at blif_clk_net 9.53393e-12 5.57377e-12
+at blif_reset_net 1.62361e-10 2.20547e-11
+at CLR 1.62543e-10 1.83651e-11
